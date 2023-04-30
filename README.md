@@ -9,7 +9,6 @@
 <br/><br/>
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dagleaves&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <a href="https://www.linkedin.com/in/dagleaves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
