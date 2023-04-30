@@ -32,5 +32,5 @@
 
 ## :book: My blog posts
 {{range rss "https://dagleaves.com/atom.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
