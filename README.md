@@ -35,5 +35,5 @@
 
 ## :book: My blog posts
 
-- [N-Puzzle Algorithms](http://dagleaves.com/2023/02/01/n-puzzle) (2 months ago)
-- [Jekyll Website Setup](http://dagleaves.com/2022/01/11/setup-website) (1 year ago)
+- [N-Puzzle Algorithms](http://dagleaves.com/2023/02/01/n-puzzle)
+- [Jekyll Website Setup](http://dagleaves.com/2022/01/11/setup-website)
