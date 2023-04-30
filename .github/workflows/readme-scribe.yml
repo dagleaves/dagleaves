@@ -1,4 +1,4 @@
-name: Update README activity
+name: Update generated README 
 on:
   schedule:
     - cron: "0 */1 * * *"
