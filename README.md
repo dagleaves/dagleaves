@@ -13,8 +13,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <a href="https://www.linkedin.com/in/dagleaves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+## About Me
 
-#### 👷 I'm currently working on
+🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
+
+📖 Conducting research on **AI** and **Large Language Models**
+
+💻 Currently working on LLM applications for recommender systems and automated research.
+
+:seedling: Currently learning [LangChain](https://github.com/hwchase17/langchain) and [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
+
+
+## 👷 I'm currently working on
 
 - [dagleaves/VisionNETs](https://github.com/dagleaves/VisionNETs) - PyTorch implementations of popular vision neural networks (6 days ago)
 - [dagleaves/ehull-calculator](https://github.com/dagleaves/ehull-calculator) - Python energy above the convex hull calculator (1 week ago)
@@ -23,7 +33,8 @@
 - [acm-uofsc/codeathon-s23-lower](https://github.com/acm-uofsc/codeathon-s23-lower) - Lower division problems for the Spring 2023 ACM Code-A-Thon (2 months ago)
 
 
-# :book: My blog posts
+## :book: My blog posts
 
 - [N-Puzzle Algorithms](http://dagleaves.com/2023/02/01/n-puzzle)
 - [Jekyll Website Setup](http://dagleaves.com/2022/01/11/setup-website)
+
