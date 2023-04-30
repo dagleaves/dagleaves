@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel! :wave:
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=dagleaves&theme=dark&show_icons=true" />
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagleaves&layout=compact" />
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=dagleaves&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagleaves&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 <br/><br/>
 <br/><br/>
