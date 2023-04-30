@@ -15,4 +15,6 @@
 
 # :book: My blog posts
 <!-- BLOG-POST-LIST:START -->
+- [N-Puzzle Algorithms](http://dagleaves.com/2023/02/01/n-puzzle)
+- [Jekyll Website Setup](http://dagleaves.com/2022/01/11/setup-website)
 <!-- BLOG-POST-LIST:END -->
