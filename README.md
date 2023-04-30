@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Daniel! :wave:
 
-<!--
-**dagleaves/dagleaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=dagleaves&theme=dark&show_icons=true" />
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagleaves&layout=compact" />
 
-Here are some ideas to get you started:
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+<a href="https://www.linkedin.com/in/dagleaves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
