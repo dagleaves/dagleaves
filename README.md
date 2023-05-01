@@ -38,6 +38,7 @@
 
 ## :book: My blog posts
 
+- [Self-Deployed GitHub Stats](http://dagleaves.com/2023/05/01/self-deployed-github-stats)
 - [Dynamic GitHub Profile](http://dagleaves.com/2023/04/30/dynamic-github-profile)
 - [N-Puzzle Algorithms](http://dagleaves.com/2023/02/01/n-puzzle)
 - [Jekyll Website Setup](http://dagleaves.com/2022/01/11/setup-website)
