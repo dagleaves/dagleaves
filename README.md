@@ -29,11 +29,11 @@
 
 ## 👷 I'm currently working on
 
+- [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (1 day ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (1 week ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (1 week ago)
 - [dagleaves/languageassistant](https://github.com/dagleaves/languageassistant) - An LLM-powered language learning assistant (4 months ago)
 - [dagleaves/VisionNETs](https://github.com/dagleaves/VisionNETs) - PyTorch implementations of popular vision neural networks (6 months ago)
-- [dagleaves/ehull-calculator](https://github.com/dagleaves/ehull-calculator) - Python energy above the convex hull calculator (6 months ago)
 
 
 ## :book: My blog posts
