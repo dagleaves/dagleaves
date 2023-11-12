@@ -29,7 +29,7 @@
 
 ## 👷 I'm currently working on
 
-- [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (5 days ago)
+- [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (6 days ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (2 weeks ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (2 weeks ago)
 - [dagleaves/languageassistant](https://github.com/dagleaves/languageassistant) - An LLM-powered language learning assistant (4 months ago)
