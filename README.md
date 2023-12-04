@@ -29,8 +29,8 @@
 
 ## 👷 I'm currently working on
 
-- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (6 days ago)
-- [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (3 weeks ago)
+- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (1 week ago)
+- [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (4 weeks ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (1 month ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (1 month ago)
 - [dagleaves/languageassistant](https://github.com/dagleaves/languageassistant) - An LLM-powered language learning assistant (5 months ago)
