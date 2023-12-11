@@ -29,7 +29,7 @@
 
 ## 👷 I'm currently working on
 
-- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (1 week ago)
+- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (2 weeks ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (1 month ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (1 month ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (1 month ago)
