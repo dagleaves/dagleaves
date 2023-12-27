@@ -29,11 +29,11 @@
 
 ## 👷 I'm currently working on
 
+- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (today)
 - [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (1 month ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (1 month ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (2 months ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (2 months ago)
-- [dagleaves/languageassistant](https://github.com/dagleaves/languageassistant) - An LLM-powered language learning assistant (6 months ago)
 
 
 ## :book: My blog posts
