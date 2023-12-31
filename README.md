@@ -29,7 +29,7 @@
 
 ## 👷 I'm currently working on
 
-- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (3 days ago)
+- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (4 days ago)
 - [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (1 month ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (1 month ago)
 - [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (2 months ago)
