@@ -29,8 +29,8 @@
 
 ## 👷 I'm currently working on
 
-- [acm-uofsc/nextjs-website](https://github.com/acm-uofsc/nextjs-website) - USC ACM Spring 2024 NextJS Workshop Website (5 days ago)
-- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (3 weeks ago)
+- [acm-uofsc/nextjs-website](https://github.com/acm-uofsc/nextjs-website) - USC ACM Spring 2024 NextJS Workshop Website (6 days ago)
+- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (4 weeks ago)
 - [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (1 month ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (2 months ago)
 - [acm-uofsc/codeathon-f23-upper](https://github.com/acm-uofsc/codeathon-f23-upper) - Upper division problems for the Fall 2023 ACM Code-A-Thon (2 months ago)
