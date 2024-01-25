@@ -12,8 +12,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 <a href="https://www.linkedin.com/in/dagleaves/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## About Me
@@ -22,9 +22,9 @@
 
 📖 Conducting research on **AI** and **Large Language Models**
 
-💻 Currently working on LLM applications for recommender systems and automated research.
+💻 Currently working on a computer vision, audio, and speech-based automation platform.
 
-:seedling: Currently learning [LangChain](https://github.com/hwchase17/langchain) and [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
+:seedling: Currently learning [Kubernetes](https://github.com/kubernetes/kubernetes) and [ArgoCD](https://github.com/argoproj/argo-cd).
 
 
 ## 👷 I'm currently working on
