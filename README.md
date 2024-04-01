@@ -29,11 +29,11 @@
 
 ## 👷 I'm currently working on
 
+- [dagleaves/csce590groupproject](https://github.com/dagleaves/csce590groupproject) -  (4 days ago)
 - [acm-uofsc/nextjs-website](https://github.com/acm-uofsc/nextjs-website) - USC ACM Spring 2024 NextJS Workshop Website (1 month ago)
 - [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (3 months ago)
 - [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (4 months ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (4 months ago)
-- [acm-uofsc/codeathon-f23-lower](https://github.com/acm-uofsc/codeathon-f23-lower) - Lower division problems for the Fall 2023 ACM Code-A-Thon (5 months ago)
 
 
 ## :book: My blog posts
