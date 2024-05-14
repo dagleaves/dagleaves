@@ -18,13 +18,11 @@
 
 ## About Me
 
-🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
-
-📖 Conducting research on **AI** and **Large Language Models**
+🎓 B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
 💻 Currently working on a computer vision, audio, and speech-based automation platform.
 
-:seedling: Currently learning [Kubernetes](https://github.com/kubernetes/kubernetes) and [ArgoCD](https://github.com/argoproj/argo-cd).
+:seedling: Currently learning [Grafana](https://grafana.com/), [Grafana Loki](https://grafana.com/oss/loki/) and [Prometheus](https://prometheus.io/).
 
 
 ## 👷 I'm currently working on
