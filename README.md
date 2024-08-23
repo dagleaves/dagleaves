@@ -29,8 +29,8 @@
 
 - [dagleaves/csce-590-final-project](https://github.com/dagleaves/csce-590-final-project) -  (4 months ago)
 - [acm-uofsc/nextjs-website](https://github.com/acm-uofsc/nextjs-website) - USC ACM Spring 2024 NextJS Workshop Website (6 months ago)
-- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (7 months ago)
-- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (8 months ago)
+- [alex-laycalvert/telescope-projects.nvim](https://github.com/alex-laycalvert/telescope-projects.nvim) - A custom telescope.nvim plugin to hop between your projects. (8 months ago)
+- [dagleaves/gld-portfolio](https://github.com/dagleaves/gld-portfolio) - Portfolio for GLD in Research 2023 (9 months ago)
 - [dagleaves/AutoAssistant](https://github.com/dagleaves/AutoAssistant) - Source-citing LLM augmented with a vector database of automotive diagnostic knowledge (9 months ago)
 
 
